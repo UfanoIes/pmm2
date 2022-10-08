@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">APP2.diazufano.cesar</string>
+    <string name="start_label1">Ufan Software</string>
+    <string name="inicio_label1">APP2 CDS 2022</string>
+    <string name="inicio_boton1">APP2 Boton"</string>
+    <string name="inicio_Tboton1">APP2 Toggle Button</string>
+    <string name="inicio_Text1">APP2 Edit Text</string>
+</resources>
